@@ -1,0 +1,21 @@
+
+h1
+{
+	color: rgb(38, 38, 118); 
+	font-size: 80px;
+}
+.body_backgorund {
+background-image: url("vector-background-colored-rounds-template-design-colorful-olympic-circles-concept-vector-illustration-isolated-white-148550657.jpg");
+background-position: center;
+background-size: cover;
+
+
+}
+
+#myCanvas{
+
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+
+}
